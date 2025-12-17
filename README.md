@@ -107,10 +107,3 @@ Note
 
 Written casually by Yasin Ndaba (VOIDARA).
 If you make tweaks, PRs are welcome!
-
-
----
-
-If you want, I can **also add a cool ASCII logo and badges section** for GitHub so your repo looks fully polished and “pro hacker vibes” on first glance.  
-
-Do you want me to do that?
